@@ -118,7 +118,3 @@ result.addEventListener("click", function() {
 clear.addEventListener("click", function() {
   input.innerHTML = "";
 })
-
-function reset(){
-  document.getElementById("input").innerHTML = " "
-}
